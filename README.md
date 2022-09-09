@@ -1,5 +1,11 @@
 # Retro WiFi modem
 
+Forked from BenMtl's repository.
+Modifies to use a NodeMCU board, of which i had several in waiting.
+Will be using on a C64, BBC Micro and Amiga A1200 so will require several adapter leads
+
+!!! Original ReadMe !!!
+
 ## An ESP8266 based RS232 \<-\> WiFi modem with Hayes AT style commands and LED indicators
 
 ![Front Panel](images/Front%20Panel.jpg "Front Panel")
