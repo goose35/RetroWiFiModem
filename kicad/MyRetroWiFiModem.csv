@@ -1,0 +1,15 @@
+Ref,Qnty,Value,Cmp name,Footprint,Description
+"C1, C2, C3, C4, C5, C8, ",6,100nF,C_Small,Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm,"Unpolarized capacitor, small symbol"
+"C6, ",1,100nF,C_Small,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm,"Unpolarized capacitor, small symbol"
+"C7, ",1,1uF,C_Small,Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm,"Unpolarized capacitor, small symbol"
+"CON1, ",1,BARREL_JACK,Barrel_Jack_Switch,Connector_BarrelJack:BarrelJack_Horizontal,DC Barrel Jack with an internal switch
+"D1, D2, D3, D4, D5, D6, D7, D8, ",8,TLPR5600,LED,LED_THT:LED_D3.0mm,Light emitting diode
+"H1, H2, H3, H4, H5, H6, ",6,MountingHole,MountingHole,MountingHole:MountingHole_3.2mm_M3,Mounting Hole without connection
+"P1, ",1,CONN_02X05,Conn_02x05_Odd_Even,Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical,"Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+"R1, R2, R3, R4, R5, R6, R7, R8, ",8,560R,R,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,Resistor
+"R9, ",1,10K,R,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,Resistor
+"U1, ",1,74HC245,74HC245,Package_DIP:DIP-20_W7.62mm,"Octal BUS Transceivers, 3-State outputs"
+"U2, ",1,MAX3232,MAX232,Package_DIP:DIP-16_W7.62mm,"Dual RS232 driver/receiver, 5V supply, 120kb/s, 0C-70C"
+"U3, ",1,74HC32,74LS32,Package_DIP:DIP-14_W7.62mm,Quad 2-input OR
+"U4, ",1,LP2950ACZ-3.3,LP2950-3.3_TO92,Package_TO_SOT_THT:TO-92L_Inline_Wide,"Positive 100mA 30V Linear Micropower Voltage Regulator, Fixed Output 3.3V, TO-92"
+"U6, ",1,NodeMCU_1.0_(ESP-12E),NodeMCU_1.0_(ESP-12E),ESP8266:ESP12F-Devkit-V3,

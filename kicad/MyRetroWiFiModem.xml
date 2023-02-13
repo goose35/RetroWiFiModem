@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\goose\Documents\Projects\RetroWiFiModem-master\kicad\MyRetroWiFiModem.kicad_sch</source>
+    <date>28/10/2022 21:09:38</date>
+    <tool>Eeschema (6.0.5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Retro WiFi modem (NodeMCU)</title>
+        <company/>
+        <rev>1</rev>
+        <date>2022-09-09</date>
+        <source>MyRetroWiFiModem.kicad_sch</source>
+        <comment number="1" value="Forked from BenMtl's Retro WiFi Modem Github"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/specsheet/C315C104M5U5TA7303.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">399-9859-1-ND</field>
+        <field name="Price">0.37</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigiKey PN" value="399-9859-1-ND"/>
+      <property name="Price" value="0.37"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e5104ff</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/specsheet/C315C104M5U5TA7303.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">399-9859-1-ND</field>
+        <field name="Price">0.37</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigiKey PN" value="399-9859-1-ND"/>
+      <property name="Price" value="0.37"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e51065c</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/specsheet/C315C104M5U5TA7303.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">399-9859-1-ND</field>
+        <field name="Price">0.37</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigiKey PN" value="399-9859-1-ND"/>
+      <property name="Price" value="0.37"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e5106ea</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/specsheet/C315C104M5U5TA7303.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">399-9859-1-ND</field>
+        <field name="Price">0.37</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigiKey PN" value="399-9859-1-ND"/>
+      <property name="Price" value="0.37"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e5119bd</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/specsheet/C315C104M5U5TA7303.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">399-9859-1-ND</field>
+        <field name="Price">0.37</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigiKey PN" value="399-9859-1-ND"/>
+      <property name="Price" value="0.37"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e511436</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1042_AXIMAX_Z5U.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">399-9843-ND</field>
+        <field name="Price">0.34</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigiKey PN" value="399-9843-ND"/>
+      <property name="Price" value="0.34"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e5105d7</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/datasheet/T350A105K035AT.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">399-3529-ND</field>
+        <field name="Price">1.16</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigiKey PN" value="399-3529-ND"/>
+      <property name="Price" value="1.16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e51312d</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/specsheet/C315C104M5U5TA7303.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">399-9859-1-ND</field>
+        <field name="Price">0.37</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigiKey PN" value="399-9859-1-ND"/>
+      <property name="Price" value="0.37"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e6067df</tstamps>
+    </comp>
+    <comp ref="CON1">
+      <value>BARREL_JACK</value>
+      <footprint>Connector_BarrelJack:BarrelJack_Horizontal</footprint>
+      <datasheet>http://www.tensility.com/pdffiles/54-00166.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">839-54-00166-ND</field>
+        <field name="Price">0.72</field>
+      </fields>
+      <libsource lib="Connector" part="Barrel_Jack_Switch" description="DC Barrel Jack with an internal switch"/>
+      <property name="DigiKey PN" value="839-54-00166-ND"/>
+      <property name="Price" value="0.72"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e71a7e2</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>TLPR5600</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <datasheet>http://www.vishay.com/docs/83043/tlpg5600.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">TLPR5600-ND</field>
+        <field name="Price">0.81</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="DigiKey PN" value="TLPR5600-ND"/>
+      <property name="Price" value="0.81"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e50bdc1</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>TLPR5600</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <datasheet>http://www.vishay.com/docs/83043/tlpg5600.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">TLPR5600-ND</field>
+        <field name="Price">0.81</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="DigiKey PN" value="TLPR5600-ND"/>
+      <property name="Price" value="0.81"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e50bd80</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>TLPR5600</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <datasheet>http://www.vishay.com/docs/83043/tlpg5600.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">TLPR5600-ND</field>
+        <field name="Price">0.81</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="DigiKey PN" value="TLPR5600-ND"/>
+      <property name="Price" value="0.81"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e50bcdd</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>TLPR5600</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <datasheet>http://www.vishay.com/docs/83043/tlpg5600.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">TLPR5600-ND</field>
+        <field name="Price">0.81</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="DigiKey PN" value="TLPR5600-ND"/>
+      <property name="Price" value="0.81"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e50bd48</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>TLPR5600</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <datasheet>http://www.vishay.com/docs/83043/tlpg5600.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">TLPR5600-ND</field>
+        <field name="Price">0.81</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="DigiKey PN" value="TLPR5600-ND"/>
+      <property name="Price" value="0.81"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e50be1f</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>TLPR5600</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <datasheet>http://www.vishay.com/docs/83043/tlpg5600.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">TLPR5600-ND</field>
+        <field name="Price">0.81</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="DigiKey PN" value="TLPR5600-ND"/>
+      <property name="Price" value="0.81"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e50be68</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>TLPR5600</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <datasheet>http://www.vishay.com/docs/83043/tlpg5600.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">TLPR5600-ND</field>
+        <field name="Price">0.81</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="DigiKey PN" value="TLPR5600-ND"/>
+      <property name="Price" value="0.81"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e50beaa</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>TLPR5600</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <datasheet>http://www.vishay.com/docs/83043/tlpg5600.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">TLPR5600-ND</field>
+        <field name="Price">0.81</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="DigiKey PN" value="TLPR5600-ND"/>
+      <property name="Price" value="0.81"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e50beef</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f878879</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f878c9b</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f878e4d</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8790e0</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f87935f</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8795e8</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>CONN_02X05</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
+      <datasheet>http://www.on-shore.com/wp-content/uploads/2018/04/302-SXX1.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">ED1543-ND</field>
+        <field name="Price">0.40</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="DigiKey PN" value="ED1543-ND"/>
+      <property name="Price" value="0.40"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e50b2ec</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>560R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-cf_cfm.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">CF18JT560RCT-ND</field>
+        <field name="Price">0.16</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey PN" value="CF18JT560RCT-ND"/>
+      <property name="Price" value="0.16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e881203</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>560R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-cf_cfm.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">CF18JT560RCT-ND</field>
+        <field name="Price">0.16</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey PN" value="CF18JT560RCT-ND"/>
+      <property name="Price" value="0.16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e8810fd</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>560R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-cf_cfm.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">CF18JT560RCT-ND</field>
+        <field name="Price">0.16</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey PN" value="CF18JT560RCT-ND"/>
+      <property name="Price" value="0.16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e880ff5</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>560R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-cf_cfm.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">CF18JT560RCT-ND</field>
+        <field name="Price">0.16</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey PN" value="CF18JT560RCT-ND"/>
+      <property name="Price" value="0.16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e880e1f</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>560R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-cf_cfm.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">CF18JT560RCT-ND</field>
+        <field name="Price">0.16</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey PN" value="CF18JT560RCT-ND"/>
+      <property name="Price" value="0.16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e880cb0</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>560R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-cf_cfm.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">CF18JT560RCT-ND</field>
+        <field name="Price">0.16</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey PN" value="CF18JT560RCT-ND"/>
+      <property name="Price" value="0.16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e880ba6</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>560R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-cf_cfm.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">CF18JT560RCT-ND</field>
+        <field name="Price">0.16</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey PN" value="CF18JT560RCT-ND"/>
+      <property name="Price" value="0.16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e880a81</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>560R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-cf_cfm.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">CF18JT560RCT-ND</field>
+        <field name="Price">0.16</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey PN" value="CF18JT560RCT-ND"/>
+      <property name="Price" value="0.16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e880893</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-cf_cfm.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">CF18JT10K0CT-ND</field>
+        <field name="Price">0.16</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey PN" value="CF18JT10K0CT-ND"/>
+      <property name="Price" value="0.16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e8813fd</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>74HC245</value>
+      <footprint>Package_DIP:DIP-20_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74act245.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">296-1612-5-ND</field>
+        <field name="Price">0.97</field>
+      </fields>
+      <libsource lib="74xx" part="74HC245" description="Octal BUS Transceivers, 3-State outputs"/>
+      <property name="DigiKey PN" value="296-1612-5-ND"/>
+      <property name="Price" value="0.97"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f7ff2d8</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MAX3232</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf</datasheet>
+      <fields>
+        <field name="DigiKey PN">ICL3232CPZ-ND</field>
+        <field name="Price">2.65</field>
+      </fields>
+      <libsource lib="Interface_UART" part="MAX232" description="Dual RS232 driver/receiver, 5V supply, 120kb/s, 0C-70C"/>
+      <property name="DigiKey PN" value="ICL3232CPZ-ND"/>
+      <property name="Price" value="2.65"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e50b296</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>74HC32</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <fields>
+        <field name="DigiKey PN">296-1589-5-ND</field>
+        <field name="Price">0.63</field>
+      </fields>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <property name="DigiKey PN" value="296-1589-5-ND"/>
+      <property name="Price" value="0.63"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f73ebcc 00000000-0000-0000-0000-00005e5160da 00000000-0000-0000-0000-00005e515f0d 00000000-0000-0000-0000-00005e516004 00000000-0000-0000-0000-00005e50b4bc</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>LP2950ACZ-3.3</value>
+      <footprint>Package_TO_SOT_THT:TO-92L_Inline_Wide</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/LP2950-D.PDF</datasheet>
+      <fields>
+        <field name="DigiKey PN">LP2950ACZ-3.3GOS-ND</field>
+        <field name="Price">1.14</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="LP2950-3.3_TO92" description="Positive 100mA 30V Linear Micropower Voltage Regulator, Fixed Output 3.3V, TO-92"/>
+      <property name="DigiKey PN" value="LP2950ACZ-3.3GOS-ND"/>
+      <property name="Price" value="1.14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e50b652</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>NodeMCU_1.0_(ESP-12E)</value>
+      <footprint>ESP8266:ESP12F-Devkit-V3</footprint>
+      <libsource lib="ESP8266" part="NodeMCU_1.0_(ESP-12E)" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MyRetroWiFiModem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36aeab98-1ab5-4ea0-a8ce-e2773f98248e</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xx" part="74HC245">
+      <description>Octal BUS Transceivers, 3-State outputs</description>
+      <docs>http://www.ti.com/lit/gpn/sn74HC245</docs>
+      <footprints>
+        <fp>DIP?20*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HC245</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74HC245</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A-&gt;B" type="input"/>
+        <pin num="2" name="A0" type="tri_state"/>
+        <pin num="3" name="A1" type="tri_state"/>
+        <pin num="4" name="A2" type="tri_state"/>
+        <pin num="5" name="A3" type="tri_state"/>
+        <pin num="6" name="A4" type="tri_state"/>
+        <pin num="7" name="A5" type="tri_state"/>
+        <pin num="8" name="A6" type="tri_state"/>
+        <pin num="9" name="A7" type="tri_state"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="B7" type="tri_state"/>
+        <pin num="12" name="B6" type="tri_state"/>
+        <pin num="13" name="B5" type="tri_state"/>
+        <pin num="14" name="B4" type="tri_state"/>
+        <pin num="15" name="B3" type="tri_state"/>
+        <pin num="16" name="B2" type="tri_state"/>
+        <pin num="17" name="B1" type="tri_state"/>
+        <pin num="18" name="B0" type="tri_state"/>
+        <pin num="19" name="CE" type="input"/>
+        <pin num="20" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS32">
+      <description>Quad 2-input OR</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS32</docs>
+      <footprints>
+        <fp>DIP?14*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS32</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74LS32</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="output"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="output"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Barrel_Jack_Switch">
+      <description>DC Barrel Jack with an internal switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack_Switch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP8266" part="NodeMCU_1.0_(ESP-12E)">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NodeMCU_1.0_(ESP-12E)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0(ADC0)" type="input"/>
+        <pin num="2" name="RSV" type="input"/>
+        <pin num="3" name="RSV" type="input"/>
+        <pin num="4" name="SD3(GPIO10)" type="bidirectional"/>
+        <pin num="5" name="SD2(GPIO9)" type="bidirectional"/>
+        <pin num="6" name="SD1(MOSI)" type="bidirectional"/>
+        <pin num="7" name="CMD(CS)" type="bidirectional"/>
+        <pin num="8" name="SDO(MISO)" type="bidirectional"/>
+        <pin num="9" name="CLK(SCLK)" type="bidirectional"/>
+        <pin num="10" name="GND" type="input"/>
+        <pin num="11" name="3.3V" type="power_out"/>
+        <pin num="12" name="EN" type="input"/>
+        <pin num="13" name="RST" type="input"/>
+        <pin num="14" name="GND" type="power_in"/>
+        <pin num="15" name="VIN" type="power_in"/>
+        <pin num="16" name="3.3V" type="power_out"/>
+        <pin num="17" name="GND" type="power_in"/>
+        <pin num="18" name="TX(GPIO1)" type="bidirectional"/>
+        <pin num="19" name="RX(DPIO3)" type="bidirectional"/>
+        <pin num="20" name="D8(GPIO15)" type="bidirectional"/>
+        <pin num="21" name="D7(GPIO13)" type="bidirectional"/>
+        <pin num="22" name="D6(GPIO12)" type="bidirectional"/>
+        <pin num="23" name="D5(GPIO14)" type="bidirectional"/>
+        <pin num="24" name="GND" type="power_in"/>
+        <pin num="25" name="3.3V" type="power_out"/>
+        <pin num="26" name="D4(GPIO2)" type="bidirectional"/>
+        <pin num="27" name="D3(GPIO0)" type="bidirectional"/>
+        <pin num="28" name="D2(GPIO4)" type="bidirectional"/>
+        <pin num="29" name="D1(GPIO5)" type="bidirectional"/>
+        <pin num="30" name="D0(GPIO16)" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_UART" part="MAX232">
+      <description>Dual RS232 driver/receiver, 5V supply, 120kb/s, 0C-70C</description>
+      <docs>http://www.ti.com/lit/ds/symlink/max232.pdf</docs>
+      <footprints>
+        <fp>SOIC*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX232</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/max232.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C1+" type="passive"/>
+        <pin num="2" name="VS+" type="power_out"/>
+        <pin num="3" name="C1-" type="passive"/>
+        <pin num="4" name="C2+" type="passive"/>
+        <pin num="5" name="C2-" type="passive"/>
+        <pin num="6" name="VS-" type="power_out"/>
+        <pin num="7" name="T2OUT" type="output"/>
+        <pin num="8" name="R2IN" type="input"/>
+        <pin num="9" name="R2OUT" type="output"/>
+        <pin num="10" name="T2IN" type="input"/>
+        <pin num="11" name="T1IN" type="input"/>
+        <pin num="12" name="R1OUT" type="output"/>
+        <pin num="13" name="R1IN" type="input"/>
+        <pin num="14" name="T1OUT" type="output"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LP2950-3.3_TO92">
+      <description>Positive 100mA 30V Linear Micropower Voltage Regulator, Fixed Output 3.3V, TO-92</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lp2950.pdf</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LP2950-3.3_TO92</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lp2950.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VO" type="power_out"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xx">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/74xx.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="ESP8266">
+      <uri>C:/Program Files/KiCad/kicad-ESP8266-master/ESP8266.lib</uri>
+    </library>
+    <library logical="Interface_UART">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Interface_UART.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="CON1" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U4" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="U6" pin="15" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="CON1" pin="2" pintype="passive"/>
+      <node ref="P1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="A-&gt;B" pintype="input"/>
+      <node ref="U1" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="12" pinfunction="B6" pintype="tri_state"/>
+      <node ref="U1" pin="19" pinfunction="CE" pintype="input"/>
+      <node ref="U2" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="10" pintype="input"/>
+      <node ref="U3" pin="12" pintype="input"/>
+      <node ref="U3" pin="13" pintype="input"/>
+      <node ref="U3" pin="4" pintype="input"/>
+      <node ref="U3" pin="5" pintype="input"/>
+      <node ref="U3" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="9" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="14" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="4" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="C2+" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="C2-" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VS+" pintype="power_out"/>
+    </net>
+    <net code="7" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="VS-" pintype="power_out"/>
+    </net>
+    <net code="8" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="C1+" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="C1-" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(P1-Pad3)">
+      <node ref="P1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="T1OUT" pintype="output"/>
+    </net>
+    <net code="19" name="Net-(P1-Pad4)">
+      <node ref="P1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="R2IN" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(P1-Pad5)">
+      <node ref="P1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="R1IN" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(P1-Pad6)">
+      <node ref="P1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="T2OUT" pintype="output"/>
+    </net>
+    <net code="22" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="A0" pintype="tri_state"/>
+    </net>
+    <net code="23" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="A1" pintype="tri_state"/>
+    </net>
+    <net code="24" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="A2" pintype="tri_state"/>
+    </net>
+    <net code="25" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="A3" pintype="tri_state"/>
+    </net>
+    <net code="26" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="A4" pintype="tri_state"/>
+    </net>
+    <net code="27" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="A5" pintype="tri_state"/>
+    </net>
+    <net code="28" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="A6" pintype="tri_state"/>
+    </net>
+    <net code="29" name="Net-(R8-Pad1)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="A7" pintype="tri_state"/>
+    </net>
+    <net code="30" name="Net-(R9-Pad2)">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U3" pin="2" pintype="input"/>
+      <node ref="U6" pin="23" pinfunction="D5(GPIO14)" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="Net-(U1-Pad11)">
+      <node ref="U1" pin="11" pinfunction="B7" pintype="tri_state"/>
+      <node ref="U6" pin="28" pinfunction="D2(GPIO4)" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="Net-(U1-Pad13)">
+      <node ref="U1" pin="13" pinfunction="B5" pintype="tri_state"/>
+      <node ref="U2" pin="12" pinfunction="R1OUT" pintype="output"/>
+      <node ref="U6" pin="19" pinfunction="RX(DPIO3)" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="Net-(U1-Pad14)">
+      <node ref="U1" pin="14" pinfunction="B4" pintype="tri_state"/>
+      <node ref="U2" pin="11" pinfunction="T1IN" pintype="input"/>
+      <node ref="U3" pin="3" pintype="output"/>
+    </net>
+    <net code="34" name="Net-(U1-Pad15)">
+      <node ref="U1" pin="15" pinfunction="B3" pintype="tri_state"/>
+      <node ref="U6" pin="22" pinfunction="D6(GPIO12)" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="Net-(U1-Pad16)">
+      <node ref="U1" pin="16" pinfunction="B2" pintype="tri_state"/>
+      <node ref="U6" pin="29" pinfunction="D1(GPIO5)" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="Net-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="B1" pintype="tri_state"/>
+      <node ref="U2" pin="10" pinfunction="T2IN" pintype="input"/>
+      <node ref="U6" pin="20" pinfunction="D8(GPIO15)" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="Net-(U1-Pad18)">
+      <node ref="U1" pin="18" pinfunction="B0" pintype="tri_state"/>
+      <node ref="U2" pin="9" pinfunction="R2OUT" pintype="output"/>
+      <node ref="U6" pin="21" pinfunction="D7(GPIO13)" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="Net-(U3-Pad1)">
+      <node ref="U3" pin="1" pintype="input"/>
+      <node ref="U6" pin="18" pinfunction="TX(GPIO1)" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="unconnected-(CON1-Pad3)">
+      <node ref="CON1" pin="3" pintype="passive+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(P1-Pad1)">
+      <node ref="P1" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(P1-Pad2)">
+      <node ref="P1" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(P1-Pad7)">
+      <node ref="P1" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(P1-Pad8)">
+      <node ref="P1" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(P1-Pad10)">
+      <node ref="P1" pin="10" pinfunction="Pin_10" pintype="passive+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U3-Pad6)">
+      <node ref="U3" pin="6" pintype="output+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U3-Pad8)">
+      <node ref="U3" pin="8" pintype="output+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U3-Pad11)">
+      <node ref="U3" pin="11" pintype="output+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U6-Pad1)">
+      <node ref="U6" pin="1" pinfunction="A0(ADC0)" pintype="input"/>
+    </net>
+    <net code="49" name="unconnected-(U6-Pad2)">
+      <node ref="U6" pin="2" pinfunction="RSV" pintype="input"/>
+    </net>
+    <net code="50" name="unconnected-(U6-Pad3)">
+      <node ref="U6" pin="3" pinfunction="RSV" pintype="input"/>
+    </net>
+    <net code="51" name="unconnected-(U6-Pad4)">
+      <node ref="U6" pin="4" pinfunction="SD3(GPIO10)" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="unconnected-(U6-Pad5)">
+      <node ref="U6" pin="5" pinfunction="SD2(GPIO9)" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="unconnected-(U6-Pad6)">
+      <node ref="U6" pin="6" pinfunction="SD1(MOSI)" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="unconnected-(U6-Pad7)">
+      <node ref="U6" pin="7" pinfunction="CMD(CS)" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="unconnected-(U6-Pad8)">
+      <node ref="U6" pin="8" pinfunction="SDO(MISO)" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="unconnected-(U6-Pad9)">
+      <node ref="U6" pin="9" pinfunction="CLK(SCLK)" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="unconnected-(U6-Pad10)">
+      <node ref="U6" pin="10" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="58" name="unconnected-(U6-Pad11)">
+      <node ref="U6" pin="11" pinfunction="3.3V" pintype="power_out"/>
+    </net>
+    <net code="59" name="unconnected-(U6-Pad12)">
+      <node ref="U6" pin="12" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="60" name="unconnected-(U6-Pad13)">
+      <node ref="U6" pin="13" pinfunction="RST" pintype="input"/>
+    </net>
+    <net code="61" name="unconnected-(U6-Pad16)">
+      <node ref="U6" pin="16" pinfunction="3.3V" pintype="power_out"/>
+    </net>
+    <net code="62" name="unconnected-(U6-Pad17)">
+      <node ref="U6" pin="17" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="63" name="unconnected-(U6-Pad24)">
+      <node ref="U6" pin="24" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="64" name="unconnected-(U6-Pad25)">
+      <node ref="U6" pin="25" pinfunction="3.3V" pintype="power_out"/>
+    </net>
+    <net code="65" name="unconnected-(U6-Pad26)">
+      <node ref="U6" pin="26" pinfunction="D4(GPIO2)" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="unconnected-(U6-Pad27)">
+      <node ref="U6" pin="27" pinfunction="D3(GPIO0)" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="unconnected-(U6-Pad30)">
+      <node ref="U6" pin="30" pinfunction="D0(GPIO16)" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>
