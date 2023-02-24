@@ -4,7 +4,8 @@ Forked from BenMtl's repository.
 Modified to use a NodeMCU board, of which i had several in waiting.
 Will be using on a C64, BBC Micro and Amiga A1200 so will require several adapter leads
 
-Important Note
+# Important Note
+
 Please note that there are 2 standards (pin-outs) for the 10 pin motherboard connector
 AT/Everex or Intel/DTK
 This modem is using the Intel/DTK pinout
